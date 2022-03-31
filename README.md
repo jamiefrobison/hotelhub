@@ -49,15 +49,5 @@
 [MIT](LICENSE)
 ​
 ​<br>
-[Go Back to the top](#Hotel_Hub)
-​
-## Authors Info
-[Sarah Jelimo](https://github.com/JelimoSarah)
-<br>
-[Caleb Kabaya](https://github.com/CalebKabaya)<br>
-[Andy Opote](https://github.com/Andy3643)<br>
-[Sera Orina](https://github.com/SeraOrina)
-
-    
 
 [Go Back to the top](#Hotel_Hub)
